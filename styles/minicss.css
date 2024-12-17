@@ -1,0 +1,99 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+#firstLogo {
+    max-width: 146.683px;
+    height: 21.023px;
+    margin-top: 25px;
+    margin-left: 80px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#productt {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 18px;
+    margin-top: 25px;
+    margin-left: 179.7px;
+    color: #323232;
+}
+
+#servicess {
+    color: #323232;
+    font-size: 18px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 25px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#recourcess {
+    color: #323232;
+    font-size: 18px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 25px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#offerss {
+    color: #323232;
+    font-size: 18px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 179.7px;
+}
+
+#connecting {
+    border: 1px solid #AC00FF;
+    border-radius: 8px;
+    color: #AC00FF;
+    background-color: #E9D7FE;
+    font-size: 14px;
+    padding: 8px 16px;
+    margin-top: 19.5px;
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 500;
+}
+
+h1 {
+    max-width: 720px;
+    height: 148px;
+    color: #323232;
+    font-size: 64px;
+    margin-left: 214px;
+    margin-bottom: 24px;
+    margin-top: 64px;
+    font-weight: 400;
+}
+
+#technologyCompany {
+    color: #323232;
+    font-size: 24px;
+    max-width: 841px;
+    height: 64px;
+    margin-left: 214px;
+    margin-bottom: 24px;
+    font-weight: 400;
+}
+
+#joining {
+    color: #FFFFFF;
+    background-color: #5C3BAE;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 16px 24px;
+    border-radius: 8px;
+    max-width: 204px;
+    height: 54px;
+    margin-left: 204px;
+}
