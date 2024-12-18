@@ -96,4 +96,36 @@ h1 {
     max-width: 204px;
     height: 54px;
     margin-left: 204px;
+    margin-right: 24px;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#autoPlayy {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 32.013px;
+    height: 32.013px;
+    margin-right: 12px;
+}
+
+#clickHere {
+    max-width: 150px;
+    height: 22px;
+    display: inline-block;
+    vertical-align: middle;
+    text-decoration: underline;
+    font-size: 18px;
+    font-weight: 500;
+    color: #4D3491;
+}
+
+#cardPhotos {
+    margin-top: -180px;
+    max-width: 1311px;
+    height: 761px;
+    display: inline;
+    float: right;
+    
 }
